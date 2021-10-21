@@ -2,7 +2,7 @@
 
 
 ## set up
-1,確保你的server host跟stm32板子連到同一個網路
+1,確保你的server host跟stm32板子連到同一個網路\
 2,在server.py中host填入socket server的ip
 3,在mbed_json填入wifi-SSID, password
 4,確保防火牆不阻撓stm32連到server
